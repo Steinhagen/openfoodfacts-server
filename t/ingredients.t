@@ -767,6 +767,7 @@ $expected_product_ref =
       'en:glucose',
       'en:fructose',
       'en:colza-oil',
+      'en:rapeseed oil',
       'en:oil-and-fat',
       'en:vegetable-oil-and-fat',
       'en:vegetable-oil',
